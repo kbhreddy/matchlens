@@ -1,0 +1,14 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Private credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Raw StatsBomb data: licence forbids redistribution, keep local only
+data/raw/
