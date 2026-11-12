@@ -109,7 +109,7 @@ PROJECT_PLAN.md              Scope, milestones, and release criteria
 - **Validation:** the current calculation expects the source's event structure and known team names. Broader input validation remains future work.
 - **Heatmaps:** a future event-location heatmap would show recorded actions, not continuous player movement.
 
-## AI engineering approach
+## AI Integration and Evaluation
 
 AI assists development, but changes are reviewed and verified with executed code and tests. The planned in-app AI feature will be evaluated on fixed cases for factual correctness, unsupported claims, missing-data handling, response time, and API cost. No AI evaluation results are claimed yet.
 
